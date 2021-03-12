@@ -1,0 +1,4 @@
+1,Avengers Endgame,Action/Sci-fi,English,26/04/2019,Rober Downey JR; Chris Evans,8.4,373.22
+2,Avatar, Sci-fi/Adventure,English,18/12/2009, Zoe Saldana; Sam Worthington,7.8,101
+3,3 Idiots,Comedy,Hindi,25/12/2009,Amir Khan; R Madhvan,8.4,202.47
+4,Dangal,Sports,Hindi,23/12/2016,Amir Khan;Fatima Sana,8.4,387.38
